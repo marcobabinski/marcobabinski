@@ -3,8 +3,11 @@
 ## Sobre mim
 
 🤓 Sou um entusiasta de desenvolvimento, especialmente o que tange o desenvolvimento Web!
+
 🎓 Atualmente estou cursando Ciência da Computação
+
 🪴 Buscando me aprimorar para encontrar minha primeira oportunidade na área de desenvolvimento
+
 🎮 Apaixonado por videogames e desenvolvimento de jogos
 
 ![Brasil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Português Brasileiro") | ![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "Inglês | English")
